@@ -1,0 +1,7 @@
+.cache/
+.config/
+__pycache__/
+*.pt
+.venv/
+.idea/
+.vscode/
